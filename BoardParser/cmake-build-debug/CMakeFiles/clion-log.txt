@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser -B /Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser/cmake-build-debug
+-- Found OpenCV: /usr/local (found version "4.6.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser/cmake-build-debug

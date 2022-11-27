@@ -1,0 +1,3 @@
+/Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser/cmake-build-debug/CMakeFiles/BoardParser.dir
+/Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/csantosr/Documents/Universidad/Inteligentes/diamond_rash/BoardParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
